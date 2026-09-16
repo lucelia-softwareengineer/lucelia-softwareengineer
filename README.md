@@ -84,7 +84,7 @@ Confira alguns dos projetos práticos desenvolvidos no meu laboratório de códi
 ---
 
 <p align="center">
-  <i>"Transformando regras complexas em soluções funcionais e escaláveis através do código."</i><br><br>
+  <i>"O aprendizado contínuo é a chave para transformar conhecimento em oportunidades."</i><br><br>
   📫 <b>Bora conversar sobre tecnologia, desenvolvimento ou oportunidades?</b><br>
   <a href="https://www.linkedin.com/in/las-lucelia/">LinkedIn</a> • <a href="mailto:las.lucelia@gmail.com">las.lucelia@gmail.com</a>
 </p>
