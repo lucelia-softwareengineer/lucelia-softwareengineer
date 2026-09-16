@@ -12,9 +12,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-Futura **Engenheira de Software** pelo **UNIPÊ** (Centro Universitário de João Pessoa) e profissional com mais de **14 anos de experiência** em gestão de processos críticos, análise de requisitos e governança no setor público (atuando como Pregoeira e com histórico na UFPB).
-
-Trago essa bagagem analítica, rigor na resolução de problemas e atenção aos detalhes diretamente para o desenvolvimento de software, construindo aplicações web modernas, funcionais e com foco total na experiência do usuário.
+Estudante de Engenharia de Software e profissional com mais de 14 anos de experiência em análise de processos, tomada de decisão e gestão pública."
 
 - 🎓 Cursando Bacharelado em **Engenharia de Software** (UNIPÊ).
 - 💻 Foco atual: **Front-end com JavaScript puro (ES6+), HTML5 semântico e CSS3 responsivo (Mobile First)**.
