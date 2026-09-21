@@ -2,7 +2,7 @@
   <img src="banner-perfil.png" alt="Banner Lucélia Alves - Engenharia de Software" width="100%" />
 </p>
 
-# Olá, eu sou a Lucélia Alves! 👋
+# Olá, eu sou a Lucélia! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/las-lucelia/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:las.lucelia@gmail.com)
