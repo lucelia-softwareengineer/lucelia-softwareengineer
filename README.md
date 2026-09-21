@@ -16,7 +16,7 @@ Estudante de Engenharia de Software e profissional com mais de 14 anos de experi
 
 - 🎓 Cursando Bacharelado em **Engenharia de Software** (UNIPÊ).
 - 💻 Foco atual: **Front-end com JavaScript puro (ES6+), HTML5 semântico e CSS3 responsivo (Mobile First)**.
-- 📐 Base consolidada em: Lógica de Programação, Estruturas de Dados Lineares, POO e Modelagem de Bancos de Dados Relacionais.
+- 📐 Conhecimento em: Lógica de Programação, Estruturas de Dados Lineares, POO e Modelagem de Bancos de Dados Relacionais.
 - 🎯 Em constante evolução: explorando frameworks modernos, metodologias ágeis e boas práticas de arquitetura de software.
 
 ---
